@@ -89,14 +89,6 @@ SmartSeg/
 └── README.md
 ```
 
-## Results
-
-SmartSeg consistently outperforms state-of-the-art baselines on public benchmarks:
-
-| Setting | Accuracy |
-|---|---|
-| Mixed (egocentric + third-person) | **67.9%** |
-| Fully egocentric | **61.6%** |
 
 ## Contact
 
