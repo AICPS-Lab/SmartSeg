@@ -11,7 +11,8 @@ For questions about the code or paper, please reach out to:
 ## Citation
 
 If you find this work useful in your research, please consider citing:
-​```bibtex
+
+​```
 @article{liu2026smartseg,
   title={SmartSeg: A non-parametric approach for wearable camera video temporal segmentation},
   author={Liu, Yilin and Wang, Hanchen David and Fu, Haowei and Mason, Madison Lee and Li, Fanjie and Wise, Alyssa and Levin, Daniel T and Biswas, Gautam and Ma, Meiyi},
